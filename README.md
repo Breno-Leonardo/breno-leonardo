@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Personal apps already published:
-- [LoLTimer](https://play.google.com/store/apps/details?id=com.onerb.timerlol)
+### [LoLTimer](https://play.google.com/store/apps/details?id=com.onerb.timerlol)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brenoleonardo) 
